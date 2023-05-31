@@ -1,4 +1,4 @@
-# An alignment-free analysis of genomes from Extreme Environments
+# An alignment-free analysis of genomes from extreme environments
 This repository contains the representative DNA fragments and some source code used in the paper "Environment and taxonomy shape the genomic signature of prokaryotic extremophiles" available at https://doi.org/10.1101/2023.05.24.542097
 
 If you use our code or data as part of your research please cite:
